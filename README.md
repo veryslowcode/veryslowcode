@@ -1,2 +1,7 @@
-Sometimes it's better to not take things too seriously. 
-Coding is fun, don't let the serious times take that away.
+>[!WARNING]
+>It is likely that none of my code on here is good, but it should work.
+>Use at your own risk :crossed_fingers:
+
+# Hi :wave:
+
+I'm Brandon, just a random guy on the internet :eyes: who codes.
