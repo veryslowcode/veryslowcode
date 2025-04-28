@@ -1,5 +1,5 @@
 >[!WARNING]
->It is likely that none of my code on here is good, but it should work.
+>It is likely that none of my code on here is efficient, but it should work.
 >Use at your own risk :crossed_fingers:
 
 # Hi :wave:
